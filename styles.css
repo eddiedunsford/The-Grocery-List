@@ -1,0 +1,26 @@
+* {
+    background-color: lightgray;
+}
+
+section {
+    color: red;
+    border: 5px solid purple;
+    background-color: gold;
+}
+
+div {
+    color: blue;
+    border: 5px dashed green
+}
+
+h1 {
+    color: darkgoldenrod;
+}
+
+h2 {
+    color: rgb(233, 18, 169);
+}
+
+img {
+    
+}
